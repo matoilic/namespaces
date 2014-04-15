@@ -1,7 +1,7 @@
 <?php
 
 $EM_CONF[$_EXTKEY] = array(
-	'title' => 'Global Namespaces in Fluid',
+	'title' => 'Global Namespaces in fluid',
 	'description' => 'Adds the possibility to register a namespace globally in fluid so you don\'t have to declare it in every file.',
 	'category' => 'plugin',
 	'shy' => 0,
