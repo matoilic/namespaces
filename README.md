@@ -11,5 +11,6 @@ This will save you from putting
 ```
 {namespace YourNamespace=Path\To\Namespace}
 ```
+in every file.
 
-If you have any questions or need support feel free to contact me through the form on my homepage http://matoilic.ch
+If you have any questions or need support feel free to contact me through the form on my homepage http://matoilic.ch.
