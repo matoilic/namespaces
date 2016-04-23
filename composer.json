@@ -1,12 +1,24 @@
 {
-    "name": "matoilic/namespaces",
-    "description": "Global Namespaces in fluid",
-    "type": "typo3-cms-extension",
-    "keywords": ["TYPO3 CMS", "templating", "Utility", "ViewHelper", "fluid", "namespace"],
-    "homepage": "https://github.com/matoilic/namespaces",
-    "license": "GPL-2.0+",
-    "version": "1.0.0",
-    "support": {
-        "issues": "https://github.com/matoilic/namespaces/issues"
+  "name": "matoilic/namespaces",
+  "description": "Global Namespaces in fluid",
+  "type": "typo3-cms-extension",
+  "keywords": [
+    "TYPO3 CMS",
+    "templating",
+    "Utility",
+    "ViewHelper",
+    "fluid",
+    "namespace"
+  ],
+  "homepage": "https://github.com/matoilic/namespaces",
+  "license": "GPL-2.0+",
+  "version": "1.0.0",
+  "autoload": {
+    "psr-4": {
+      "MatoIlic\\Namespaces\\": "Classes"
     }
+  },
+  "support": {
+    "issues": "https://github.com/matoilic/namespaces/issues"
+  }
 }
